@@ -1,4 +1,4 @@
-#React weather application
+# React weather application
 
 ## Demo
 https://jstraveller.github.io/react-weather-app/
