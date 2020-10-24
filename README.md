@@ -6,4 +6,4 @@ A simple React weather app that displays weather information from the OpenWeathe
 
 
 ## Demo
-https://jstraveller.github.io/react-weather-app/
+https://aaleo402.github.io/react-weather-app/
